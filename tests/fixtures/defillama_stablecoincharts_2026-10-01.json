@@ -1,0 +1,427 @@
+{
+ "total": [
+  {
+   "date": "1790640000",
+   "totalCirculating": {
+    "peggedUSD": 311007652972,
+    "peggedVAR": 9035092,
+    "peggedEUR": 700309871,
+    "peggedJPY": 24891783494,
+    "peggedCNY": 24050,
+    "peggedUAH": 140064,
+    "peggedARS": 13341466564,
+    "peggedGBP": 22375301,
+    "peggedCAD": 5464638,
+    "peggedCHF": 36732274,
+    "peggedAUD": 19453999,
+    "peggedREAL": 168893129,
+    "peggedRUB": 46679882272,
+    "peggedMXN": 22588089,
+    "peggedSGD": 15290290,
+    "peggedPHP": 226626834,
+    "peggedTRY": 237420324,
+    "peggedCOP": 673108518,
+    "peggedKES": 10324614,
+    "peggedZAR": 11032,
+    "peggedNGN": 63930582,
+    "peggedXOF": 5328084,
+    "peggedGHS": 275628,
+    "peggedCLP": 65565013,
+    "peggedPEN": 132350,
+    "peggedMYR": 427227,
+    "peggedKRW": 793657545,
+    "peggedHKD": 1006931
+   },
+   "totalUnreleased": {
+    "peggedUSD": 28470214263307,
+    "peggedVAR": 4543107,
+    "peggedEUR": 10005050105334,
+    "peggedJPY": 17483601489,
+    "peggedRUB": 683,
+    "peggedMXN": 437600,
+    "peggedTRY": 408475
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 311261810601,
+    "peggedVAR": 12174583,
+    "peggedEUR": 794351128,
+    "peggedJPY": 157966237,
+    "peggedCNY": 3584,
+    "peggedUAH": 3121,
+    "peggedARS": 8270645,
+    "peggedGBP": 29598093,
+    "peggedCAD": 3830284,
+    "peggedCHF": 44192434,
+    "peggedAUD": 13636966,
+    "peggedREAL": 32251014,
+    "peggedRUB": 552431984,
+    "peggedMXN": 1253328,
+    "peggedSGD": 11960064,
+    "peggedPHP": 3624202,
+    "peggedTRY": 4845125,
+    "peggedCOP": 207608,
+    "peggedKES": 79151,
+    "peggedZAR": 672,
+    "peggedNGN": 48295,
+    "peggedXOF": 9236,
+    "peggedGHS": 23450,
+    "peggedCLP": 71388,
+    "peggedPEN": 40145,
+    "peggedMYR": 104649,
+    "peggedKRW": 555153,
+    "peggedHKD": 128356
+   }
+  },
+  {
+   "date": "1790726400",
+   "totalCirculating": {
+    "peggedUSD": 310955914423,
+    "peggedVAR": 9035092,
+    "peggedEUR": 706035654,
+    "peggedJPY": 24865707743,
+    "peggedCNY": 24050,
+    "peggedUAH": 140064,
+    "peggedARS": 13841465279,
+    "peggedGBP": 22373383,
+    "peggedCAD": 5464738,
+    "peggedCHF": 36660453,
+    "peggedAUD": 19998836,
+    "peggedREAL": 162955692,
+    "peggedRUB": 46696447080,
+    "peggedMXN": 23888089,
+    "peggedSGD": 16693046,
+    "peggedPHP": 226626834,
+    "peggedTRY": 318518175,
+    "peggedCOP": 672807790,
+    "peggedKES": 10479360,
+    "peggedZAR": 11032,
+    "peggedNGN": 63930582,
+    "peggedXOF": 5348991,
+    "peggedGHS": 276977,
+    "peggedCLP": 65565013,
+    "peggedPEN": 132350,
+    "peggedMYR": 427227,
+    "peggedKRW": 793657545,
+    "peggedHKD": 1006921
+   },
+   "totalUnreleased": {
+    "peggedUSD": 28469887404105,
+    "peggedVAR": 4543107,
+    "peggedEUR": 10005049765780,
+    "peggedJPY": 17521588853,
+    "peggedRUB": 683,
+    "peggedMXN": 437600,
+    "peggedTRY": 408475
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 311200297805,
+    "peggedVAR": 12257082,
+    "peggedEUR": 800339767,
+    "peggedJPY": 157775810,
+    "peggedCNY": 3587,
+    "peggedUAH": 3122,
+    "peggedARS": 8591545,
+    "peggedGBP": 29664429,
+    "peggedCAD": 3827613,
+    "peggedCHF": 44058630,
+    "peggedAUD": 14037850,
+    "peggedREAL": 31248827,
+    "peggedRUB": 557569398,
+    "peggedMXN": 1327434,
+    "peggedSGD": 13078597,
+    "peggedPHP": 3619369,
+    "peggedTRY": 6497535,
+    "peggedCOP": 208937,
+    "peggedKES": 80315,
+    "peggedZAR": 673,
+    "peggedNGN": 48282,
+    "peggedXOF": 9248,
+    "peggedGHS": 23615,
+    "peggedCLP": 71371,
+    "peggedPEN": 40037,
+    "peggedMYR": 104661,
+    "peggedKRW": 554897,
+    "peggedHKD": 128333
+   }
+  },
+  {
+   "date": "1790812800",
+   "totalCirculating": {
+    "peggedUSD": 310415170414.9,
+    "peggedVAR": 9033265.94,
+    "peggedEUR": 711086891.7,
+    "peggedJPY": 24852582179.09,
+    "peggedCNY": 24050,
+    "peggedUAH": 140064.48,
+    "peggedARS": 14143965294.2,
+    "peggedGBP": 22373383.23,
+    "peggedCAD": 5464733.83,
+    "peggedCHF": 36707290.53,
+    "peggedAUD": 19631692.7,
+    "peggedREAL": 137890813.87,
+    "peggedRUB": 46713017787.28,
+    "peggedMXN": 25188089.23,
+    "peggedSGD": 16693046.44,
+    "peggedPHP": 226626834.37,
+    "peggedTRY": 298017048.64,
+    "peggedCOP": 952645675.65,
+    "peggedKES": 10409499.53,
+    "peggedZAR": 11031.96,
+    "peggedNGN": 63930581.68,
+    "peggedXOF": 5348991.41,
+    "peggedGHS": 276727.55,
+    "peggedCLP": 65565013,
+    "peggedPEN": 132350.05,
+    "peggedMYR": 264906.55,
+    "peggedKRW": 794157545.04,
+    "peggedHKD": 1106920.91
+   },
+   "totalUnreleased": {
+    "peggedUSD": 28469947830965.56,
+    "peggedVAR": 4543107.47,
+    "peggedEUR": 10005049104525.13,
+    "peggedJPY": 17544366532.96,
+    "peggedCNY": 0,
+    "peggedUAH": 0,
+    "peggedARS": 0,
+    "peggedGBP": 0,
+    "peggedCAD": 0,
+    "peggedCHF": 0,
+    "peggedAUD": 0,
+    "peggedREAL": 0,
+    "peggedRUB": 683.49,
+    "peggedMXN": 437600,
+    "peggedSGD": 0,
+    "peggedPHP": 0,
+    "peggedTRY": 408475.35,
+    "peggedCOP": 0,
+    "peggedKES": 0,
+    "peggedZAR": 0,
+    "peggedNGN": 0,
+    "peggedXOF": 0,
+    "peggedGHS": 0,
+    "peggedCLP": 0,
+    "peggedPEN": 0,
+    "peggedMYR": 0,
+    "peggedKRW": 0,
+    "peggedHKD": 0
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 310706410052.88,
+    "peggedVAR": 12279350.88,
+    "peggedEUR": 799887556.16,
+    "peggedJPY": 157401866.4,
+    "peggedCNY": 3587.04,
+    "peggedUAH": 3134.09,
+    "peggedARS": 8780650.49,
+    "peggedGBP": 29554325,
+    "peggedCAD": 3829144.01,
+    "peggedCHF": 44088519.81,
+    "peggedAUD": 13709428.89,
+    "peggedREAL": 26498375.11,
+    "peggedRUB": 560273374,
+    "peggedMXN": 1379915.27,
+    "peggedSGD": 13037494.1,
+    "peggedPHP": 3611963.74,
+    "peggedTRY": 6076300.11,
+    "peggedCOP": 295946.56,
+    "peggedKES": 80191.2,
+    "peggedZAR": 670.39,
+    "peggedNGN": 48167.7,
+    "peggedXOF": 9236.56,
+    "peggedGHS": 23679.98,
+    "peggedCLP": 71092.62,
+    "peggedPEN": 39961.45,
+    "peggedMYR": 64880.37,
+    "peggedKRW": 555356.65,
+    "peggedHKD": 141077.33
+   },
+   "totalMintedUSD": {
+    "peggedUSD": 0,
+    "peggedVAR": 0,
+    "peggedEUR": 0,
+    "peggedJPY": 0,
+    "peggedCNY": 0,
+    "peggedUAH": 0,
+    "peggedARS": 0,
+    "peggedGBP": 0,
+    "peggedCAD": 0,
+    "peggedCHF": 0,
+    "peggedAUD": 0,
+    "peggedREAL": 0,
+    "peggedRUB": 0,
+    "peggedMXN": 0,
+    "peggedSGD": 0,
+    "peggedPHP": 0,
+    "peggedTRY": 0,
+    "peggedCOP": 0,
+    "peggedKES": 0,
+    "peggedZAR": 0,
+    "peggedNGN": 0,
+    "peggedXOF": 0,
+    "peggedGHS": 0,
+    "peggedCLP": 0,
+    "peggedPEN": 0,
+    "peggedMYR": 0,
+    "peggedKRW": 0,
+    "peggedHKD": 0
+   },
+   "totalBridgedToUSD": {
+    "peggedUSD": 0,
+    "peggedVAR": 0,
+    "peggedEUR": 0,
+    "peggedJPY": 0,
+    "peggedCNY": 0,
+    "peggedUAH": 0,
+    "peggedARS": 0,
+    "peggedGBP": 0,
+    "peggedCAD": 0,
+    "peggedCHF": 0,
+    "peggedAUD": 0,
+    "peggedREAL": 0,
+    "peggedRUB": 0,
+    "peggedMXN": 0,
+    "peggedSGD": 0,
+    "peggedPHP": 0,
+    "peggedTRY": 0,
+    "peggedCOP": 0,
+    "peggedKES": 0,
+    "peggedZAR": 0,
+    "peggedNGN": 0,
+    "peggedXOF": 0,
+    "peggedGHS": 0,
+    "peggedCLP": 0,
+    "peggedPEN": 0,
+    "peggedMYR": 0,
+    "peggedKRW": 0,
+    "peggedHKD": 0
+   }
+  }
+ ],
+ "usdt": [
+  {
+   "date": "1790640000",
+   "totalCirculating": {
+    "peggedUSD": 183843576172
+   },
+   "totalUnreleased": {
+    "peggedUSD": 9670971629
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 183787154912
+   }
+  },
+  {
+   "date": "1790726400",
+   "totalCirculating": {
+    "peggedUSD": 183839917293
+   },
+   "totalUnreleased": {
+    "peggedUSD": 9674630486
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 183758497423
+   }
+  },
+  {
+   "date": "1790812800",
+   "totalCirculating": {
+    "peggedUSD": 183840017418.05
+   },
+   "totalUnreleased": {
+    "peggedUSD": 9674530499.45
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 183788752051.78
+   },
+   "totalMintedUSD": {
+    "peggedUSD": 0
+   },
+   "totalBridgedToUSD": {
+    "peggedUSD": 0
+   }
+  }
+ ],
+ "usdc": [
+  {
+   "date": "1790640000",
+   "totalCirculating": {
+    "peggedUSD": 74859243691
+   },
+   "totalUnreleased": {
+    "peggedUSD": 1250904474
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 74850437227
+   }
+  },
+  {
+   "date": "1790726400",
+   "totalCirculating": {
+    "peggedUSD": 74583471121
+   },
+   "totalUnreleased": {
+    "peggedUSD": 920385396
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 74568657800
+   }
+  },
+  {
+   "date": "1790812800",
+   "totalCirculating": {
+    "peggedUSD": 74140487766.1
+   },
+   "totalUnreleased": {
+    "peggedUSD": 980895824.01
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 74134245321.71
+   },
+   "totalMintedUSD": {
+    "peggedUSD": 0
+   },
+   "totalBridgedToUSD": {
+    "peggedUSD": 0
+   }
+  }
+ ],
+ "rlusd": [
+  {
+   "date": "1790640000",
+   "totalCirculating": {
+    "peggedUSD": 2517591692
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 2517812296
+   }
+  },
+  {
+   "date": "1790726400",
+   "totalCirculating": {
+    "peggedUSD": 2521028997
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 2520986370
+   }
+  },
+  {
+   "date": "1790812800",
+   "totalCirculating": {
+    "peggedUSD": 2399894610.3
+   },
+   "totalUnreleased": {
+    "peggedUSD": 0
+   },
+   "totalCirculatingUSD": {
+    "peggedUSD": 2399975545.99
+   },
+   "totalMintedUSD": {
+    "peggedUSD": 0
+   },
+   "totalBridgedToUSD": {
+    "peggedUSD": 0
+   }
+  }
+ ]
+}

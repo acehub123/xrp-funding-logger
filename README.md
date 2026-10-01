@@ -19,3 +19,9 @@ Once the bot is live it polls Coinbase anyway -- have it log funding itself and 
 ## Calibrate
 `python calibrate.py ../phase1/data/xrp_perp_funding_est_hourly.csv xrp_perp_funding_published.csv published_local.csv`
 ~1 week: bias/scale check. ~2 weeks: linear fit usable. ~4 weeks: tail confidence.
+
+## Data files
+- `xrp_perp_funding_published.csv` — Coinbase's published hourly XRP perp funding, one row per 15-min poll: `polled_at`, `source`, `funding_time`, `funding_rate`, `open_interest`, `index_price`, `last_price`.
+- `data/stablecoin_supply.csv` — DefiLlama stablecoin supply in USD, one row per day (~02:00 UTC): `observed_at`, `source_date`, `total_circulating_usd` (all pegs), `usd_pegged_usd`, `usdt_usd`, `usdc_usd`, `rlusd_usd`.
+- `observed_at` / `polled_at` are the actual fetch time (UTC), not the time the value refers to.
+- Stablecoin rows hold the prior closed UTC day: `source_date` = the day before `observed_at`.
